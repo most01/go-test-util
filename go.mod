@@ -1,4 +1,4 @@
-module github.com/most01/go-test-util
+module github.com/most01/go-test-util/v2
 
 go 1.15
 
